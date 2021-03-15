@@ -1,0 +1,7 @@
+{
+  "name": "Caixa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

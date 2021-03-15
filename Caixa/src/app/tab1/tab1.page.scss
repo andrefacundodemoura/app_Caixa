@@ -1,0 +1,37 @@
+ion-content{
+    text-align: center;
+}
+ion-title{
+    text-align: center;
+}
+.entradas{
+    padding-top: 70px;
+}
+label{
+    font-size: 80px;
+    margin-right: 10px;
+}
+input{
+    width: 250px;
+    height: 100px;
+    font-size: 50px;
+    text-align: center;
+    border-radius: 15px;
+    background: rgb(148, 182, 245);
+}
+.botoes{
+    padding-top: 70px;
+}
+.mais{
+    padding: 50px;
+    font-size: 20px;;
+    background: rgb(129, 214, 1);
+    border-radius: 100%;
+}
+.menos{
+    padding: 50px;
+    font-size: 20px;
+    background: rgb(238, 10, 10);
+    border-radius: 100%;
+    margin-left: 20px;
+}
